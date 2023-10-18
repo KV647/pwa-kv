@@ -67,3 +67,8 @@ yarn.lock
 .DS_Store
 .vscode
 *.xslx
+
+.DS_Store/
+Assets/
+node_modules/
+.vscode/
